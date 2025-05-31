@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.nhh.fireaid"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.nhh.fireaid"
